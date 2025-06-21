@@ -35,9 +35,3 @@ This project uses a **Naive Bayes classifier** combined with **TF-IDF vectorizat
 
 > Model achieved high accuracy on test data  
 ---
-
-## 📂 File Structure
-emailspam/
-├── spam.ipynb # Main Jupyter notebook
-└── README.md # Project documentation
-
